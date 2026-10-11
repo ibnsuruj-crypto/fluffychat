@@ -3,8 +3,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-name: fluffychat
-description: Chat with your friends.
+name: name: mycrypchat
+description:name: mycrypchat
+description: MyCrypChat - Personal, secure, end-to-end encrypted messaging application powered by Matrix.
 publish_to: none
 # On version bump please also increase:
 # 1. The build number (for F-Droid)
